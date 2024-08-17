@@ -10,13 +10,13 @@
 
 In this repository You will have access to: 
 
-1.Word file to show what we did in the project ->  <strong>MLDM Final Project - Final</strong>
+1. Word file to show what we did in the project ->  <strong>MLDM Final Project - Final</strong>
 
-2.Course presentation -> <strong>MLDM project Presentation</strong> 
+2. Course presentation -> <strong>MLDM project Presentation</strong> 
 
-3.ML code -> <strong>MLDM_ML_models_for_predicting_heart_disease_in_patients</strong> 
+3. ML code -> <strong>MLDM_ML_models_for_predicting_heart_disease_in_patients</strong> 
 
-4.Excel file for data in CSV format -> <strong>heart_statlog_cleveland_hungary_final</strong>
+4. Excel file for data in CSV format -> <strong>heart_statlog_cleveland_hungary_final</strong>
 
 
 
