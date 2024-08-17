@@ -18,6 +18,10 @@ In this repository You will have access to:
 
 4. Excel file for data in CSV format -> <strong>heart_statlog_cleveland_hungary_final</strong>
 
+Thank You.
+
+<h3 align="left">Languages and Tools:</h3>
+href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a 
 
 
   
