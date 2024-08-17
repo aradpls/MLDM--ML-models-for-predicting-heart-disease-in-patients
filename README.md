@@ -2,12 +2,25 @@
 <p align="left">
 </p>
 
-<h4 align="center">project by: Adi Golbari, Inbal Karibian And Arad Peleg</h4>
+<h4 align="center">Project By: Adi Golbari, Inbal Karibian And Arad Peleg</h4>
 
 <h2 align="center">Hi 👋, This is our project on Machine Learning Models for Predicting Heart Disease  </h2>
 <p align="left">
 </p>
 
+In this repository You will have access to: 
+
+1.Word file to show what we did in the project ->  <strong>MLDM Final Project - Final</strong>
+
+2.Course presentation -> <strong>MLDM project Presentation</strong> 
+
+3.ML code -> <strong>MLDM_ML_models_for_predicting_heart_disease_in_patients</strong> 
+
+4.Excel file for data in CSV format -> <strong>heart_statlog_cleveland_hungary_final</strong>
 
 
-   
+
+  
+
+
+
