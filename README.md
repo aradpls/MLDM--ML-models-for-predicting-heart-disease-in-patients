@@ -2,7 +2,7 @@
 <p align="left">
 </p>
 
-<h4 align="center">Project By: Adi Golbari, Inbal Karibian And Arad Peleg</h4>
+<h4 align="center">Project By: Adi Gulbari, Inbal Karibian And Arad Peleg</h4>
 
 <h2 align="center">Hi 👋, This is our project on Machine Learning Models for Predicting Heart Disease  </h2>
 <p align="left">
